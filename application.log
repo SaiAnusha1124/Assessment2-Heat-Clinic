@@ -1,0 +1,287 @@
+2019-11-08 11:39:00,990  INFO [main] LogReports:21 - Anusha
+2019-11-08 11:56:02,752  INFO [main] LogReports:21 - Chrome is Started
+2019-11-08 11:56:09,959  INFO [main] LogReports:21 - file not found
+2019-11-08 11:57:43,915  INFO [main] LogReports:21 - Chrome is Started
+2019-11-08 11:59:55,014  INFO [main] LogReports:21 - Chrome is Started
+2019-11-08 12:02:59,417  INFO [main] LogReports:21 - Chrome is Started
+2019-11-08 12:12:22,592  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:12:27,521  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:13:00,685  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:22:48,158  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:22:52,473  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:23:25,616  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:23:28,873  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:23:29,137  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-08 12:23:29,387  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-08 12:23:45,300  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 12:23:45,301  INFO [TestNG-PoolService-0] LogReports:21 - Successfully selected and validate for first product
+2019-11-08 12:25:57,953  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:26:02,642  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:26:35,704  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:26:38,818  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:26:39,110  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-08 12:26:39,403  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-08 12:26:55,328  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 12:26:56,211  INFO [TestNG-PoolService-0] LogReports:21 - Successfully selected and validate for first product
+2019-11-08 12:28:58,686  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:29:03,138  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:29:36,309  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:29:39,471  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:29:39,731  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-08 12:29:39,999  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-08 12:29:55,916  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 12:29:56,674  INFO [TestNG-PoolService-0] LogReports:21 - Added product to cart
+2019-11-08 12:29:56,675  INFO [TestNG-PoolService-0] LogReports:21 - Successfully selected and validate for first product
+2019-11-08 12:38:37,085  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:39:40,123  INFO [TestNG-PoolService-0] LogReports:21 - Selected MacBook Air Product
+2019-11-08 12:46:05,970  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:48:57,922  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:49:36,597  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:50:56,807  INFO [TestNG-PoolService-0] LogReports:21 - Selected MacBook Air Product
+2019-11-08 12:50:59,936  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:51:00,221  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-08 12:51:00,514  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-08 12:51:16,419  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-08 12:51:17,169  INFO [TestNG-PoolService-0] LogReports:21 - Added product to cart
+2019-11-08 12:51:17,170  INFO [TestNG-PoolService-0] LogReports:21 - Successfully selected and validate for second product
+2019-11-08 12:58:30,813  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:58:36,173  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:58:36,174  INFO [TestNG-PoolService-0] LogReports:21 - Successfully Validated Home Page
+2019-11-08 12:58:36,174  INFO [TestNG-PoolService-0] LogReports:21 - ******************
+2019-11-08 12:59:09,452  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:59:12,963  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:59:48,612  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:59:53,498  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:59:53,499  INFO [TestNG-PoolService-0] LogReports:21 - Successfully Validated Home Page
+2019-11-08 12:59:53,500  INFO [TestNG-PoolService-0] LogReports:21 - ******************
+2019-11-08 13:00:26,499  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 13:00:29,637  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 13:27:13,531  INFO [main] LogReports:21 - IE is Started
+2019-11-08 13:27:18,599  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 13:27:18,600  INFO [TestNG-PoolService-0] LogReports:21 - Successfully Validated Home Page
+2019-11-08 13:27:18,601  INFO [TestNG-PoolService-0] LogReports:21 - ******************
+2019-11-08 13:27:51,649  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 13:27:54,801  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 14:08:53,167  INFO [main] LogReports:21 - IE is Started
+2019-11-08 14:09:30,891  INFO [TestNG-PoolService-0] LogReports:21 - Selected Chairs as Negative Product
+2019-11-08 14:09:31,181  INFO [TestNG-PoolService-0] LogReports:21 - failed : Verifying after removing grand total :  Actual data :  Expected data : Your shopping cart is empty!
+2019-11-08 14:30:25,571  INFO [main] LogReports:21 - IE is Started
+2019-11-08 14:31:04,179  INFO [TestNG-PoolService-0] LogReports:21 - Selected Chairs as Negative Product
+2019-11-08 14:31:04,434  INFO [TestNG-PoolService-0] LogReports:21 - failed : Verifying after removing grand total :  Actual data :  Expected data : Your shopping cart is empty!
+2019-11-08 15:33:45,776  INFO [main] LogReports:24 - IE is Started
+2019-11-08 15:33:50,845  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 15:33:50,846  INFO [TestNG-PoolService-0] LogReports:24 - Successfully Validated Home Page
+2019-11-08 15:33:50,847  INFO [TestNG-PoolService-0] LogReports:24 - ******************
+2019-11-08 15:34:24,014  INFO [TestNG-PoolService-0] LogReports:24 - Selected Iphone Product
+2019-11-08 15:34:27,252  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 15:35:06,882  INFO [main] LogReports:24 - IE is Started
+2019-11-08 15:36:08,943  INFO [TestNG-PoolService-0] LogReports:24 - Selected MacBook Air Product
+2019-11-08 15:43:34,056  INFO [main] LogReports:24 - IE is Started
+2019-11-08 15:43:38,860  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 15:43:38,863  INFO [TestNG-PoolService-0] LogReports:24 - Successfully Validated Home Page
+2019-11-08 15:43:38,863  INFO [TestNG-PoolService-0] LogReports:24 - ******************
+2019-11-08 15:44:12,138  INFO [TestNG-PoolService-0] LogReports:24 - Selected Iphone Product
+2019-11-08 15:44:15,247  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 15:45:20,831  INFO [main] LogReports:24 - IE is Started
+2019-11-08 15:45:25,685  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 15:45:25,685  INFO [TestNG-PoolService-0] LogReports:24 - Successfully Validated Home Page
+2019-11-08 15:45:25,688  INFO [TestNG-PoolService-0] LogReports:24 - ******************
+2019-11-08 15:45:58,762  INFO [TestNG-PoolService-0] LogReports:24 - Selected Iphone Product
+2019-11-08 15:46:02,210  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 17:04:44,573  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:04:47,950  INFO [TestNG-PoolService-0] LogReports:24 - failed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : HEAT CLINIC
+2019-11-08 17:04:47,950  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 17:05:38,665  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:05:58,889  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:06:44,149  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:06:45,850  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 17:06:45,863  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 17:08:56,316  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:08:58,044  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 17:08:58,046  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 17:10:30,137  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:10:31,761  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 17:10:31,776  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 17:15:28,501  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:15:30,546  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 17:15:30,546  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 17:24:44,628  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:24:46,336  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 17:24:46,337  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 17:24:48,065  INFO [main] LogReports:24 - Clicked Mens Products
+2019-11-08 17:24:48,893  INFO [main] LogReports:24 - Selected Shirt
+2019-11-08 17:29:20,361  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:29:21,942  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 17:29:21,944  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 17:29:23,681  INFO [main] LogReports:24 - Clicked Mens Products
+2019-11-08 17:29:26,424  INFO [main] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 17:54:01,503  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:54:20,538  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:54:23,188  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 17:54:23,188  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 17:54:24,976  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 17:54:27,710  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 17:58:12,774  INFO [main] LogReports:24 - IE is Started
+2019-11-08 17:58:15,491  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 17:58:15,491  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 17:58:17,329  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 17:58:20,154  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:00:40,799  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:00:43,483  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:00:43,483  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 18:00:45,443  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:00:48,170  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:01:20,663  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:01:47,791  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:01:50,385  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:01:50,386  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 18:01:52,230  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:01:54,914  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:02:27,468  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:02:27,737  INFO [TestNG-PoolService-0] LogReports:24 - failed : Verifying Home Page :  Actual data : Shirt Size: M Expected data : 
+2019-11-08 18:02:27,987  INFO [TestNG-PoolService-0] LogReports:24 - failed : Verifying Home Page :  Actual data : Personalized Name: Anusha Expected data : 
+2019-11-08 18:02:28,237  INFO [TestNG-PoolService-0] LogReports:24 - failed : Verifying Home Page :  Actual data : Shirt Color: Red Expected data : 
+2019-11-08 18:02:28,518  INFO [TestNG-PoolService-0] LogReports:24 - failed : Verifying Home Page :  Actual data : $14.99 Expected data : 
+2019-11-08 18:02:28,779  INFO [TestNG-PoolService-0] LogReports:24 - failed : Verifying Home Page :  Actual data : $14.99 Expected data : 
+2019-11-08 18:02:28,779  INFO [TestNG-PoolService-0] LogReports:24 - Validated Product Details
+2019-11-08 18:03:49,183  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:03:51,839  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:03:51,839  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 18:03:54,208  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:03:56,936  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:04:29,439  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:04:29,795  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 18:04:30,045  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : Personalized Name: Anusha Expected data : Personalized Name: Anusha
+2019-11-08 18:04:30,295  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-08 18:04:30,545  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:04:30,806  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:04:30,806  INFO [TestNG-PoolService-0] LogReports:24 - Validated Product Details
+2019-11-08 18:12:00,121  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:12:02,828  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:12:02,831  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 18:12:04,594  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:12:07,336  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:12:40,017  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:12:40,268  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 18:12:40,517  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : Personalized Name: Anusha Expected data : Personalized Name: Anusha
+2019-11-08 18:12:40,765  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-08 18:12:41,015  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:12:41,265  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:12:41,265  INFO [TestNG-PoolService-0] LogReports:24 - Validated Product Details
+2019-11-08 18:12:58,033  INFO [TestNG-PoolService-0] LogReports:24 - Successfully updated the quantity
+2019-11-08 18:16:58,768  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:17:01,420  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:17:01,421  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 18:17:03,076  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:17:05,937  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:17:38,495  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:17:38,795  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 18:17:39,060  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Cutomer Name :  Actual data : Personalized Name: Anusha Expected data : Personalized Name: Anusha
+2019-11-08 18:17:39,306  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-08 18:17:39,549  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:17:39,798  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:17:39,799  INFO [TestNG-PoolService-0] LogReports:24 - Validated Product Details
+2019-11-08 18:17:56,201  INFO [TestNG-PoolService-0] LogReports:24 - Successfully updated the quantity
+2019-11-08 18:21:38,126  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:21:40,760  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:21:40,764  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 18:21:42,548  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:21:45,192  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:22:17,642  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:22:18,009  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 18:22:18,261  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Cutomer Name :  Actual data : Personalized Name: Anusha Expected data : Personalized Name: Anusha
+2019-11-08 18:22:18,502  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-08 18:22:18,748  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:22:18,990  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:22:18,991  INFO [TestNG-PoolService-0] LogReports:24 - Validated Product Details
+2019-11-08 18:24:26,236  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:24:29,046  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:24:29,046  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 18:24:30,895  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:24:33,765  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:25:06,300  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:25:06,635  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 18:25:06,877  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Cutomer Name :  Actual data : Personalized Name: Anusha Expected data : Personalized Name: Anusha
+2019-11-08 18:25:07,108  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-08 18:25:07,358  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:25:07,602  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-08 18:25:07,602  INFO [TestNG-PoolService-0] LogReports:24 - Validated Product Details
+2019-11-08 18:26:24,453  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:26:26,963  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:26:26,963  INFO [TestNG-PoolService-0] LogReports:24 - Validated Home Page
+2019-11-08 18:26:28,667  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:26:31,408  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:26:49,003  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:26:49,280  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 18:37:07,892  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:37:11,746  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:37:14,445  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:37:32,048  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:37:32,360  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 18:38:10,784  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:38:14,356  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:39:30,333  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:39:34,407  INFO [TestNG-PoolService-0] LogReports:24 - Clicked Mens Products
+2019-11-08 18:39:37,191  INFO [TestNG-PoolService-0] LogReports:24 - Selected Shirt,Color and size
+2019-11-08 18:39:54,734  INFO [TestNG-PoolService-0] LogReports:24 - Product added into cart
+2019-11-08 18:39:55,007  INFO [TestNG-PoolService-0] LogReports:24 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 18:40:26,590  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:41:25,184  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:41:27,016  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:41:27,017  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 18:59:45,628  INFO [main] LogReports:24 - IE is Started
+2019-11-08 18:59:47,232  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 18:59:47,232  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 18:59:49,467  INFO [main] LogReports:24 - failed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : 
+2019-11-08 18:59:51,325  INFO [main] LogReports:24 - failed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : 
+2019-11-08 18:59:53,040  INFO [main] LogReports:24 - failed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : 
+2019-11-08 18:59:54,708  INFO [main] LogReports:24 - failed : Verifying New to Hot Sauce tab :  Actual data : NEW TO HOT SAUCE? Expected data : 
+2019-11-08 18:59:56,345  INFO [main] LogReports:24 - failed : Verifying FAQ tab :  Actual data : FAQ Expected data : 
+2019-11-08 19:03:01,463  INFO [main] LogReports:24 - IE is Started
+2019-11-08 19:03:03,259  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 19:03:03,274  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 19:03:05,595  INFO [main] LogReports:24 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-08 19:03:07,392  INFO [main] LogReports:24 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-08 19:03:09,255  INFO [main] LogReports:24 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-08 19:03:10,984  INFO [main] LogReports:24 - Passed : Verifying New to Hot Sauce tab :  Actual data : NEW TO HOT SAUCE? Expected data : NEW TO HOT SAUCE?
+2019-11-08 19:03:12,639  INFO [main] LogReports:24 - failed : Verifying FAQ tab :  Actual data : FAQ Expected data : 
+2019-11-08 19:04:28,303  INFO [main] LogReports:24 - IE is Started
+2019-11-08 19:04:29,987  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 19:04:30,003  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 19:04:32,269  INFO [main] LogReports:24 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-08 19:04:34,174  INFO [main] LogReports:24 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-08 19:04:35,934  INFO [main] LogReports:24 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-08 19:04:37,688  INFO [main] LogReports:24 - failed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : NEW TO HOT SAUCE?
+2019-11-08 19:04:39,532  INFO [main] LogReports:24 - failed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : 
+2019-11-08 19:05:49,746  INFO [main] LogReports:24 - IE is Started
+2019-11-08 19:05:51,323  INFO [main] LogReports:24 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 19:05:51,339  INFO [main] LogReports:24 - Validated Home Page
+2019-11-08 19:05:53,684  INFO [main] LogReports:24 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-08 19:05:55,582  INFO [main] LogReports:24 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-08 19:05:57,408  INFO [main] LogReports:24 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-08 19:05:59,160  INFO [main] LogReports:24 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-08 19:06:00,815  INFO [main] LogReports:24 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-08 19:06:00,816  INFO [main] LogReports:24 - Successfully Validated all tabs in a Home Page
+2019-11-08 19:57:39,543  INFO [main] LogReports:25 - IE is Started
+2019-11-08 19:57:45,695  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 19:57:45,696  INFO [main] LogReports:25 - Validated Home Page
+2019-11-08 19:57:48,194  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-08 19:57:50,223  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-08 19:57:52,294  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-08 19:57:54,047  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-08 19:57:55,940  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-08 19:57:55,940  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-08 19:58:12,907  INFO [main] LogReports:25 - IE is Started
+2019-11-08 19:58:16,926  INFO [TestNG-PoolService-0] LogReports:25 - Clicked Mens Products
+2019-11-08 19:58:19,707  INFO [TestNG-PoolService-0] LogReports:25 - Selected Shirt,Color and size
+2019-11-08 19:58:37,272  INFO [TestNG-PoolService-0] LogReports:25 - Product added into cart
+2019-11-08 19:58:37,586  INFO [TestNG-PoolService-0] LogReports:25 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-08 20:00:51,535  INFO [main] LogReports:25 - IE is Started
+2019-11-08 20:00:53,132  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-08 20:00:53,132  INFO [main] LogReports:25 - Validated Home Page
+2019-11-08 20:00:55,456  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-08 20:00:57,369  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-08 20:00:59,276  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-08 20:01:00,959  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-08 20:01:02,642  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-08 20:01:02,642  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
